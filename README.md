@@ -1,6 +1,6 @@
 # Streamlit Tutorial
-> Notes from: [https://www.youtube.com/playlist?list=PL2VXyKi-KpYtZzm1K8UKnnBzsOCtekhKq](https://www.youtube.com/playlist?list=PL2VXyKi-KpYtZzm1K8UKnnBzsOCtekhKq)
-> Special thanks to [@wjbmattingly](https://github.com/wjbmattingly)
+> - Notes from: [https://www.youtube.com/playlist?list=PL2VXyKi-KpYtZzm1K8UKnnBzsOCtekhKq](https://www.youtube.com/playlist?list=PL2VXyKi-KpYtZzm1K8UKnnBzsOCtekhKq)
+> - Special thanks to [@wjbmattingly](https://github.com/wjbmattingly)
 
 |Code related to course|Notes|
 |-|-|
