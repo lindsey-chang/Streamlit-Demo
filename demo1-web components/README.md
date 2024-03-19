@@ -36,10 +36,13 @@
 ### 下拉选择框（`st.selectbox`）:
   - **HTML对应组件**: `<select>`标签
 
+![alt text](./resource/image-2.png)
+
+
 ### 多选框（`st.multiselect`）:
   - **HTML对应组件**: `<select multiple>`标签
 
-![alt text](./resource/image-2.png)
+![alt text](./resource/image4.png)
 
 ### 滑动条（`st.slider`）:
   - **HTML对应组件**: `<input type="range">`
